@@ -7,8 +7,6 @@ static  ArrayList<Integer> value=new ArrayList<Integer>();// to get all differen
 static  ArrayList<ArrayList<temppos>> store= new ArrayList<ArrayList<temppos>>();
 static  ArrayList <temppos> tempstore =new ArrayList<temppos>();
 static node solutionNode;
-char c='0';
-static int depth=0;
 static int maxdepth=5;
     static int width = 3;
     static int n = 0;
